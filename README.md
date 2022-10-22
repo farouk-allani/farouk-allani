@@ -11,6 +11,7 @@ A previous army captain turned into a passionate software developer who loves ma
 *   🧠  I'm learning JS framworks (React.js, Next.js)
 *   🤝  I'm open to collaborating on Interesting projects
 *   ⚡  I can consider myself a self-taught and a fast learner and i had taken a 6 month fullstack js bootcamp.
+*   📘  [Portfolio](faroukallani.tn)
 ### Skills
 <p align="left">
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
