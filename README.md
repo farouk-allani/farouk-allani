@@ -8,9 +8,8 @@ A previous army captain turned into a passionate software developer who loves ma
 
 *   🌍  I'm based in Tunisia
 *   ✉️  You can contact me at [farouk.allani.pro@gmail.com](mailto:farouk.allani.pro@gmail.com)
-*   🧠  I'm learning JS framworks (React.js, Next.js)
-*   🤝  I'm open to collaborating on Interesting projects
-*   ⚡  I can consider myself a self-taught and a fast learner and i had taken a 6 month fullstack js bootcamp.
+*   🤝  I'm open to collaborating on Interesting projects.
+*   ⚡  I can consider myself a self-taught and a fast learner.
 *   📘  [Portfolio](faroukallani.tn)
 ### Skills
 <p align="left">
