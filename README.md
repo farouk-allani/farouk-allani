@@ -10,7 +10,7 @@ A previous army captain turned into a passionate software developer who loves ma
 *   ✉️  You can contact me at [farouk.allani.pro@gmail.com](mailto:farouk.allani.pro@gmail.com)
 *   🤝  I'm open to collaborating on Interesting projects.
 *   ⚡  I can consider myself a self-taught and a fast learner.
-*   📘  [Portfolio](www.faroukallani.tn)
+*   📘  [Portfolio](https://www.faroukallani.tn)
 ### Skills
 <p align="left">
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
