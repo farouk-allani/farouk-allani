@@ -4,7 +4,7 @@ Hi 👋 My name is Farouk Allani
 Full Stack web developer
 ------------------------
 
-A previous army captain turned into a passionate software developer who loves making beautiful, functional web applications using modern workflows. Specialize in JavaScript & React, but have experience with other technologies such as Redux, Sass, Bootstrap & Git. Enjoy continuously sharpening existing skills, as well as learning new technologies & languages. Ready to apply my passion for coding to a talented engineering team to develop quality solutions.
+A passionate software developer who loves making beautiful, functional web applications using modern workflows. Specialize in JavaScript & React, but have experience with other technologies such as Redux, Sass, Bootstrap & Git. Enjoy continuously sharpening existing skills, as well as learning new technologies & languages. Ready to apply my passion for coding to a talented engineering team to develop quality solutions.
 
 *   🌍  I'm based in Tunisia
 *   ✉️  You can contact me at [farouk.allani.pro@gmail.com](mailto:farouk.allani.pro@gmail.com)
